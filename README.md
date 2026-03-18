@@ -2,32 +2,32 @@
 
 ### iOS Developer | Swift & SwiftUI Architect | Mobile Product Builder 🚀
 
-. Experience: 5 years of architecting high-performance applications across **E-commerce, Ride-hailing, Social Networking, and Video Streaming**
+♾ Experience: 5 years of architecting high-performance applications across **E-commerce, Ride-hailing, Social Networking, and Video Streaming**
 
-🔹 Technical Expertise: **Swift, SwiftUI, UIKit** with **MVVM & MVC**  
+♾ Technical Expertise: **Swift, SwiftUI, UIKit** with **MVVM & MVC**  
 
-🔹 Engineering Excellence: **Modularization, Refactoring legacy codebases**, and delivering **scalable, testable, and maintainable software**  
+♾ Engineering Excellence: **Modularization, Refactoring legacy codebases**, and delivering **scalable, testable, and maintainable software**  
 
-🔹 Reactive & Concurrency: **Combine, RxSwift, and Swift Concurrency (Async/Await)** for modern data flow management
+♾ Reactive & Concurrency: **Combine, RxSwift, and Swift Concurrency (Async/Await)** for modern data flow management
 
-🔹 Networking: **Alamofire & URLSession** | Version control: **Git, GitHub, GitLab, Sourcetree, Command Line Git**  
+♾ Networking: **Alamofire & URLSession** | Version control: **Git, GitHub, GitLab, Sourcetree, Command Line Git**  
 
-🔹 DevOps & Automation: Experienced in managing the full release lifecycle using **Fastlane, CI/CD pipelines**, and **App Store Connect**
+♾ DevOps & Automation: Experienced in managing the full release lifecycle using **Fastlane, CI/CD pipelines**, and **App Store Connect**
 
 ---
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](diaokojafari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diaoko-jafari-77730a213)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiaokoJafari)
 
 ---
 
 ### 🛠 Technical Skills
 
 ### Core Development & Frameworks
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift]
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-5C2D91?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-FF5A5F?style=for-the-badge&logo=swift&logoColor=white)
