@@ -2,7 +2,7 @@
 
 ### iOS Developer | Swift & SwiftUI Architect | Mobile Product Builder 🚀
 
-🔹 Experience: 5 years of architecting high-performance applications across **E-commerce, Ride-hailing, Social Networking, and Video Streaming**
+⚪️ Experience: 5 years of architecting high-performance applications across **E-commerce, Ride-hailing, Social Networking, and Video Streaming**
 
 🔹 Technical Expertise: **Swift, SwiftUI, UIKit** with **MVVM & MVC**  
 
