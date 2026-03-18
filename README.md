@@ -27,7 +27,7 @@
 ### 🛠 Technical Skills
 
 ### Core Development & Frameworks
-![Swift]
+![Swift](https://img.shields.io/badge/SwiftUI-5C2D91?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-5C2D91?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-FF5A5F?style=for-the-badge&logo=swift&logoColor=white)
