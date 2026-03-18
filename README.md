@@ -18,7 +18,7 @@
 
 ### 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](diaokojafari@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](diaokojafari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diaoko-jafari-77730a213)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiaokoJafari)
 
